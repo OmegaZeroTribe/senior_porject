@@ -1,4 +1,7 @@
 # senior_porject
+
+Cassava Mosaic Classification and Detection using Deep Learning
+
 consist of all python script for this project
 
 
